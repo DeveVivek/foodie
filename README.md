@@ -41,7 +41,7 @@ git clone https://github.com/devevivek/foodie.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/devevivek).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codexvivek).
 
 ### License
 
