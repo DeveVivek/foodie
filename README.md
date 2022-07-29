@@ -43,7 +43,4 @@ git clone https://github.com/devevivek/foodie.git
 
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codexvivek).
 
-### License
-
-This project is **free to use** and does not contains any license.
-
+#DeveVivek
